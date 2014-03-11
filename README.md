@@ -9,6 +9,10 @@ Leiningen dependency information:
 
 	[clj.where "0.1.0"]
 
+Use it in your namespace:
+
+	(use 'clj.where)
+
 For example, you have a vector of key-value maps,such as:
 
 ```clj
